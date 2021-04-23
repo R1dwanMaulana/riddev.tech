@@ -44,7 +44,7 @@
             History projects
         </h1>
         <div class="max-w-sm rounded-md overflow-hidden hover:shadow-xl border border-gray-300 m-5">
-            <img class="w-full" src="/hijabstore.png" alt="Hijab Store">
+            <img class="w-full" src="./static/hijabstore.png" alt="Hijab Store">
             <div class="px-6 py-4">
                 <div class="font-bold text-xl mb-2">Hijab Store</div>
                 <p class="text-gray-700 text-base">
@@ -57,7 +57,7 @@
             </div>
         </div>
         <div class="max-w-sm rounded-md overflow-hidden hover:shadow-xl border border-gray-300 m-5">
-            <img class="w-full" src="/restodev.png" alt="Web App Restoran">
+            <img class="w-full" src="./static/restodev.png" alt="Web App Restoran">
             <div class="px-6 py-4">
                 <div class="font-bold text-xl mb-2">Restoran</div>
                 <p class="text-gray-700 text-base">

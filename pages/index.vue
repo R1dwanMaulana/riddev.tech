@@ -2,7 +2,7 @@
   <div class="container p-5">
     <div>
       <h1 class="title mb-5">
-        Hey, I'am Ridwan <img src="wave.png" class="inline" alt="" height="35" width="35">
+        Hey, I'am Ridwan <img src="./static/wave.png" class="inline" alt="" height="35" width="35">
       </h1>
 
       <p class="desc mb-3 text-gray-500">
