@@ -10,7 +10,7 @@
 
 html {
   font-family: 'Poppins', sans-serif, 'Montserrat';
-  font-size: 16px;
+  /* font-size: 16px; */
   word-spacing: 1px;
   font-weight: 400;
   -ms-text-size-adjust: 100%;

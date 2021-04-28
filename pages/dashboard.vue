@@ -1,6 +1,6 @@
 <template>
 <div class="container p-5">
-    <div>
+    <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-2xl">
         <h1 class="title">
             My Programming Stack
         </h1>

@@ -12,6 +12,7 @@
       <ul class="lg:flex items-center justify-between text-base text-gray-700 pt-4 lg:pt-0">
         <li><nuxt-link class="lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400" to="/">Home</nuxt-link></li>
         <li><nuxt-link class="lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400" to="/dashboard">Dashboard</nuxt-link></li>
+        <li><nuxt-link class="lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400" to="/listblog">Blog</nuxt-link></li>
         <li><nuxt-link class="lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400" to="/contact">Contact</nuxt-link></li>
       </ul>
     </nav>
