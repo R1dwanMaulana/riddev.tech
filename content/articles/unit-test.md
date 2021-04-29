@@ -6,7 +6,7 @@ bio: Software Developer
 
 ## Apa itu unit testing ✅
 
-Unit testing adalah suatu metode untuk pengujian komponen software, untuk meminimalisir adanya bug sebelum <span class="bg-blue-100 rounded pr-2 pl-2 text-blue-800">production</span>. Unit testing termasuk dalam tahapan software development. fungsi dari unit testing adalah memastikan bahwa seluruh kode berjalan sesuai yang diinginkan. 
+Unit testing adalah suatu metode untuk pengujian komponen software, untuk meminimalisir adanya bug sebelum <span style="color: rgb(68, 68, 212); background-color: rgb(231, 231, 255); border-radius: 4px; padding-left: 4px; padding-right: 4px">production</span>. Unit testing termasuk dalam tahapan software development. fungsi dari unit testing adalah memastikan bahwa seluruh kode berjalan sesuai yang diinginkan. 
 Nah disini saya ingin menjelaskan unit testing di vuejs.
 
 berikut contoh implementasinya:
@@ -40,7 +40,7 @@ describe('HelloWorld.vue', () => {
   });
 });
 ```
-Dari kode diatas kita menggunakan API shallowMount untuk mendefinisikan komponen yang dibutuhkan. lalu kita menambahkan opsi <span class="bg-blue-100 rounded pr-2 pl-2 text-blue-800">```propsData```</span> untuk mengoper props.
+Dari kode diatas kita menggunakan API shallowMount untuk mendefinisikan komponen yang dibutuhkan. lalu kita menambahkan opsi <span style="color: rgb(68, 68, 212); background-color: rgb(231, 231, 255); border-radius: 4px; padding-left: 4px; padding-right: 4px">```propsData```</span> untuk mengoper props.
 
-Sekian penjelasan dari saya, lebih jelasnya lagi bisa pelajari di [unit testing vue component](https://vuejs.org/v2/cookbook/unit-testing-vue-components.html)
+Sekian penjelasan dari saya, lebih jelasnya lagi bisa pelajari di <span style="background-color:rgb(236, 236, 163); color: rgb(68, 68, 212); border-radius: 4px; padding-left: 4px; padding-right: 4px">[unit testing vue component](https://vuejs.org/v2/cookbook/unit-testing-vue-components.html)</span>
 
