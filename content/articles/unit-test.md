@@ -42,5 +42,5 @@ describe('HelloWorld.vue', () => {
 ```
 Dari kode diatas kita menggunakan API shallowMount untuk mendefinisikan komponen yang dibutuhkan. lalu kita menambahkan opsi <span class="bg-blue-100 rounded pr-2 pl-2 text-blue-800">```propsData```</span> untuk mengoper props.
 
-Sekian penjelasan dari saya, lebih jelasnya lagi bisa pelajari di <span class="bg-yellow-200 rounded pr-2 pl-2 text-blue-600">[unit testing vue component](https://vuejs.org/v2/cookbook/unit-testing-vue-components.html)</span>
+Sekian penjelasan dari saya, lebih jelasnya lagi bisa pelajari di [unit testing vue component](https://vuejs.org/v2/cookbook/unit-testing-vue-components.html)
 
