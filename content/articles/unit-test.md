@@ -19,7 +19,7 @@ katakanlah kita mempunyai berkas untuk mengecek komponen.
 </template>
 
 export default {
-  name: 'HelloWorld',
+  name: 'Hello',
   props: {
     msg: String,
   },
@@ -28,12 +28,12 @@ export default {
 
 ```js{}[hello.spec.js]
 import { shallowMount } from '@vue/test-utils';
-import HelloWorld from '@/components/HelloWorld.vue';
+import Hello from '@/components/Hello.vue';
 
-describe('HelloWorld.vue', () => {
+describe('Hello.vue', () => {
   it('renders props.msg ketika dilempar', () => {
     const msg = 'new message';
-    const wrapper = shallowMount(HelloWorld, {
+    const wrapper = shallowMount(Hello, {
       propsData: { msg },
     });
     expect(wrapper.text()).toMatch(msg);
