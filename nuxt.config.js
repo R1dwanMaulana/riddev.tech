@@ -17,7 +17,7 @@ export default {
       { hid: 'description', name: 'description', content: 'my portfolio' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/man.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/profile.ico' },
       {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Poppins:wght@200;300;400;500;600&display=swap'},
     ]
   },
