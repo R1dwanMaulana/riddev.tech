@@ -1,8 +1,11 @@
 <template>
   <div class="flex flex-col">
-      <footer class="py-5 bg-white text-gray-500 text-center">
-          &copy;2021 All rights reserved | Riddev <br/>
-          Made Using <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" class="inline"> <img src="../static/heart.png" height="20" width="20" class="inline"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" class="inline">
+      <footer class="py-5 bg-white text-gray-500 text-center mb-5">
+        <div class="text-center">
+            <p class="font-light mt-20 text-sm">Contents licensed under <span class="text-green-600"><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id" target="_blank">CC BY-NC-SA 4.0.</a></span></p>
+            <p class="font-light text-sm">Made using <span class="text-green-600"><a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a></span> and  <span class="text-green-600"><a href="https://tailwindcss.com/" target="_blank">Tailwind CSS.</a></span></p>
+            <p class="font-light mt-3 text-sm">MIT License © 2020 - present | <span class="text-green-600"><a href="https://riddev.tech" target="_blank">Ridwan Maulana.</a></span></p>
+        </div>
       </footer>
   </div>
 </template>
