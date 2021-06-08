@@ -38,7 +38,7 @@
       <div class="rounded-lg overflow-hidden hover:shadow-xl shadow-md border border-transparent hover:bg-gray-200 m-2">
         <a href="https://info-liga.web.app" target="_blank">
         <div class="px-6 py-4">
-          <div class="text-gray-900 font-medium text-xl mb-2">football league information</div>
+          <div class="text-gray-900 font-medium text-xl mb-2">Football league information</div>
           <p class="text-gray-500 text-base">
             Football match information application.
           </p>
