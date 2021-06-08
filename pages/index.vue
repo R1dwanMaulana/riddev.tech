@@ -2,7 +2,7 @@
   <div class="container p-5">
     <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-2xl">
       <h1 class="title mb-5">
-        Hey, I'am Ridwan <img src="../static/wave.png" class="inline" alt="" height="35" width="35">
+        Hey, I'am Ridwan Maulana <img src="../static/wave.png" class="inline" alt="" height="35" width="35">
       </h1>
 
       <p class="desc mb-3 text-gray-500">
@@ -25,21 +25,31 @@
         Latest Projects
       </h1>
 
-      <div class="rounded-md overflow-hidden hover:shadow-lg border border-gray-300 m-3">
-        <a href="https://github.com/R1dwanMaulana/app-backend-bookshelf">
+      <div class="rounded-lg overflow-hidden hover:shadow-xl shadow-md border border-transparent hover:bg-gray-200 m-2">
+        <a href="https://quran-id.vercel.app" target="_blank">
         <div class="px-6 py-4">
-          <div class="font-medium text-xl mb-2">Build App Backed</div>
-          <p class="text-gray-700 text-base">
-            Build app backend bookshelf with API
+          <div class="text-gray-900 font-medium text-xl mb-2">Qur'an-id</div>
+          <p class="text-gray-500 text-base">
+            Al-Qur'an app from web browser + support install(app native).
           </p>
         </div>
         </a>
       </div>
-      <div class="rounded-md overflow-hidden hover:shadow-lg border border-gray-300 m-3">
-        <a href="https://github.com/R1dwanMaulana/search-github">
+      <div class="rounded-lg overflow-hidden hover:shadow-xl shadow-md border border-transparent hover:bg-gray-200 m-2">
+        <a href="https://info-liga.web.app" target="_blank">
         <div class="px-6 py-4">
-          <div class="font-medium text-xl mb-2">Search github</div>
-          <p class="text-gray-700 text-base">
+          <div class="text-gray-900 font-medium text-xl mb-2">football league information</div>
+          <p class="text-gray-500 text-base">
+            Football match information application.
+          </p>
+        </div>
+        </a>
+      </div>
+      <div class="rounded-lg overflow-hidden hover:shadow-xl shadow-md border border-transparent hover:bg-gray-200 m-2">
+        <a href="https://search-repo.netlify.app" target="_blank">
+        <div class="px-6 py-4">
+          <div class="text-gray-900 font-medium text-xl mb-2">Search repo github</div>
+          <p class="text-gray-500 text-base">
             searching username github
           </p>
         </div>
