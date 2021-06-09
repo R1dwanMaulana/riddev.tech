@@ -3,13 +3,14 @@
     <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-2xl">
             <h1 class="title mt-10 mb-2">All Projects</h1>
             <!-- grid-cols-1 -->
-            <div class="grid md:grid-cols-2 lg:grid-cols-2 gap-8">
+            <div class="grid md:grid-cols-2 lg:grid-cols-2 gap-5">
                     <div class="wrapper">
-                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-300 transition-transform transform hover:scale-105 h-80">
+                        <!-- hover:scale-105 -->
+                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-100 transition-transform transform hover:-translate-y-2 h-64">
                             <img class="w-full" src="../static/restodev.png" alt="Web App Restoran">
 
-                            <div class="overlay info py-4 text-center">
-                                <div class="text-gray-700 font-bold text-xl">Restaurant App</div>
+                            <div class="overlay info py-4 pr-3 pl-3 text-center">
+                                <div class="text-gray-800 font-bold text-2xl">Restaurant App</div>
                                 <p class="text-gray-700 text-base p-2">
                                 restaurant search web app
                                 </p>
@@ -24,11 +25,11 @@
                     </div>
 
                     <div class="wrapper">
-                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-300 transition-transform transform hover:scale-105 h-80">
+                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-100 transition-transform transform hover:-translate-y-2 h-64">
                             <img class="w-full" src="../static/hijabstore.png" alt="e-commerce Hijab Store">
 
-                            <div class="overlay info py-4 text-center">
-                                <div class="text-gray-700 font-bold text-xl">Hijab Store</div>
+                            <div class="overlay info py-4 pr-3 pl-3 text-center">
+                                <div class="text-gray-800 font-bold text-2xl">Hijab Store</div>
                                 <p class="text-gray-700 text-base p-2">
                                 Web e-commerce hijab store from Indonesia
                                 </p>
@@ -42,11 +43,11 @@
                     </div>
 
                     <div class="wrapper">
-                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-300 transition-transform transform hover:scale-105 h-80">
+                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-100 transition-transform transform hover:-translate-y-2 h-64">
                             <img class="w-full" src="../static/quran-id.png" alt="quran-id">
 
-                            <div class="overlay info py-4 text-center">
-                                <div class="text-gray-700 font-bold text-xl">Qur'an-id App</div>
+                            <div class="overlay info py-4 pr-3 pl-3 text-center">
+                                <div class="text-gray-800 font-bold text-2xl">Qur'an-id App</div>
                                 <p class="text-gray-700 text-base p-2">
                                 Al-Qur'an application from web browser + support install
                                 </p>
@@ -61,11 +62,11 @@
                     </div>
 
                     <div class="wrapper">
-                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-300 transition-transform transform hover:scale-105 h-80">
+                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-100 transition-transform transform hover:-translate-y-2 h-64">
                             <img class="w-full" src="../static/info-liga.png" alt="info-liga">
 
-                            <div class="overlay info py-4 text-center">
-                                <div class="text-gray-700 font-bold text-xl">Football league information</div>
+                            <div class="overlay info py-4 pr-3 pl-3 text-center">
+                                <div class="text-gray-800 font-bold text-2xl">Football league information</div>
                                 <p class="text-gray-700 text-base p-2">
                                 Football match information
                                 </p>
@@ -80,11 +81,11 @@
                     </div>
 
                     <div class="wrapper">
-                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-300 transition-transform transform hover:scale-105 h-80">
+                        <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-100 transition-transform transform hover:-translate-y-2 h-64">
                             <img class="w-full" src="../static/predictkos.png" alt="prediksi kos">
 
-                            <div class="overlay info py-4 text-center">
-                                <div class="text-gray-700 font-bold text-xl">Kos price prediction</div>
+                            <div class="overlay info py-4 pr-3 pl-3 text-center">
+                                <div class="text-gray-800 font-bold text-2xl">Kos price prediction</div>
                                 <p class="text-gray-700 text-base p-2">
                                 Kos price prediction for JATIM area
                                 </p>
@@ -106,18 +107,19 @@
 <style scoped>
 
 .card:hover img{
-    transform: translateY(-5px);
-    filter: blur(12px);
+    /* transform: translateY(-5px); */
+    filter: blur(5px);
 }
 
 .card img {
     height: 100%;
+    width: 100%;
     object-fit: cover;
-    transition: all 0.5s;
+    transition: all 0.3s;
 }
 .info {
     position: absolute;
-    top: 20%;
+    top: 10%;
     /* overflow: hidden; */
 }
 .overlay {
@@ -129,6 +131,7 @@
 .wrapper:hover .overlay {
     opacity: 1;
     transition: all 0.3s;
+    transform:translateY(-6px);
 }
 
 </style>
