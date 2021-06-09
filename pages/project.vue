@@ -14,11 +14,11 @@
                                 <p class="text-gray-700 text-base p-2">
                                 restaurant search web app
                                 </p>
-                                <div class="px-6 pt-4 pb-2">
+                                <div class="m-2 pt-2 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/Restaurant-PWA-and-Optimized" target="_blank">github.com/r1dwanmaulana/Restaurant-PWA-and-Optimized</a></span></p>
-                                    <span class="inline-block bg-yellow-400 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Javascript</span>
-                                    <span class="inline-block bg-blue-700 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">CSS</span>
-                                    <span class="inline-block bg-yellow-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Firebase</span>
+                                    <span class="inline-block bg-yellow-400 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">Javascript</span>
+                                    <span class="inline-block bg-blue-700 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">CSS</span>
+                                    <span class="inline-block bg-yellow-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">Firebase</span>
                                 </div>
                             </div>
                         </div>
@@ -33,10 +33,10 @@
                                 <p class="text-gray-700 text-base p-2">
                                 Web e-commerce hijab store from Indonesia
                                 </p>
-                                <div class="px-6 pt-4 pb-2">
+                                <div class="m-2 pt-2 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/Hijab-Store" target="_blank">github.com/r1dwanmaulana/Ecommerce-Hijab-Store</a></span></p>
-                                    <span class="inline-block bg-green-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">VueJS</span>
-                                    <span class="inline-block bg-blue-700 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">CSS</span>
+                                    <span class="inline-block bg-green-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">VueJS</span>
+                                    <span class="inline-block bg-blue-700 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">CSS</span>
                                 </div>
                             </div>
                         </div>
@@ -51,11 +51,11 @@
                                 <p class="text-gray-700 text-base p-2">
                                 Al-Qur'an application from web browser + support install
                                 </p>
-                                <div class="px-6 pt-4 pb-2">
+                                <div class="m-2 pt-2 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/quran-id" target="_blank">github/com/r1dwanmaulana/quran-id</a></span></p>
-                                    <span class="inline-block bg-green-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">NuxtJS</span>
-                                    <span class="inline-block bg-blue-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">TailwindCSS</span>
-                                    <span class="inline-block bg-gray-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Vercel</span>
+                                    <span class="inline-block bg-green-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">NuxtJS</span>
+                                    <span class="inline-block bg-blue-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">TailwindCSS</span>
+                                    <span class="inline-block bg-gray-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">Vercel</span>
                                 </div>
                             </div>
                         </div>
@@ -70,11 +70,11 @@
                                 <p class="text-gray-700 text-base p-2">
                                 Football match information
                                 </p>
-                                <div class="px-6 pt-4 pb-2">
+                                <div class="m-2 pt-2 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/information-football-PWA" target="_blank">github/com/r1dwanmaulana/information-football-PWA</a></span></p>
-                                    <span class="inline-block bg-yellow-400 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Javascript</span>
-                                    <span class="inline-block bg-blue-700 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">CSS</span>
-                                    <span class="inline-block bg-yellow-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Firebase</span>
+                                    <span class="inline-block bg-yellow-400 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">Javascript</span>
+                                    <span class="inline-block bg-blue-700 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">CSS</span>
+                                    <span class="inline-block bg-yellow-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">Firebase</span>
                                 </div>
                             </div>
                         </div>
@@ -87,14 +87,14 @@
                             <div class="overlay info py-4 pr-3 pl-3 text-center">
                                 <div class="text-gray-800 font-bold text-2xl">Kos price prediction</div>
                                 <p class="text-gray-700 text-base p-2">
-                                Kos price prediction for JATIM area
+                                Kos price prediction for JATIM area (Malang Raya)
                                 </p>
                                 <!-- px-6 -->
-                                <div class="px-6 pt-4 pb-2">
+                                <div class="m-2 pt-2 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/prediksi-harga-kos" target="_blank">github/com/r1dwanmaulana/prediksi-harga-kos</a></span></p>
-                                    <span class="inline-block bg-green-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">NuxtJS</span>
-                                    <span class="inline-block bg-blue-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">TailwindCSS</span>
-                                    <span class="inline-block bg-gray-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Vercel</span>
+                                    <span class="inline-block bg-green-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">NuxtJS</span>
+                                    <span class="inline-block bg-blue-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">TailwindCSS</span>
+                                    <span class="inline-block bg-gray-500 rounded-md px-2 py-1 text-xs font-normal text-white m-1 mb-2">Vercel</span>
                                 </div>
                             </div>
                         </div>
@@ -119,7 +119,7 @@
 }
 .info {
     position: absolute;
-    top: 10%;
+    top: 8%;
     /* overflow: hidden; */
 }
 .overlay {
@@ -131,7 +131,7 @@
 .wrapper:hover .overlay {
     opacity: 1;
     transition: all 0.3s;
-    transform:translateY(-6px);
+    transform:translateY(-2px);
 }
 
 </style>
