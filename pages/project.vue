@@ -13,7 +13,7 @@
                                 <p class="text-gray-700 text-base p-2">
                                 restaurant search web app
                                 </p>
-                                <div class="p-10 pt-4 pb-2">
+                                <div class="px-6 pt-4 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/Restaurant-PWA-and-Optimized" target="_blank">github.com/r1dwanmaulana/Restaurant-PWA-and-Optimized</a></span></p>
                                     <span class="inline-block bg-yellow-400 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Javascript</span>
                                     <span class="inline-block bg-blue-700 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">CSS</span>
@@ -32,7 +32,7 @@
                                 <p class="text-gray-700 text-base p-2">
                                 Web e-commerce hijab store from Indonesia
                                 </p>
-                                <div class="p-10 pt-4 pb-2">
+                                <div class="px-6 pt-4 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/Hijab-Store" target="_blank">github.com/r1dwanmaulana/Ecommerce-Hijab-Store</a></span></p>
                                     <span class="inline-block bg-green-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">VueJS</span>
                                     <span class="inline-block bg-blue-700 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">CSS</span>
@@ -50,7 +50,7 @@
                                 <p class="text-gray-700 text-base p-2">
                                 Al-Qur'an application from web browser + support install
                                 </p>
-                                <div class="p-10 pt-4 pb-2">
+                                <div class="px-6 pt-4 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/quran-id" target="_blank">github/com/r1dwanmaulana/quran-id</a></span></p>
                                     <span class="inline-block bg-green-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">NuxtJS</span>
                                     <span class="inline-block bg-blue-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">TailwindCSS</span>
@@ -69,7 +69,7 @@
                                 <p class="text-gray-700 text-base p-2">
                                 Football match information
                                 </p>
-                                <div class="p-10 pt-4 pb-2">
+                                <div class="px-6 pt-4 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/information-football-PWA" target="_blank">github/com/r1dwanmaulana/information-football-PWA</a></span></p>
                                     <span class="inline-block bg-yellow-400 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Javascript</span>
                                     <span class="inline-block bg-blue-700 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">CSS</span>
@@ -89,7 +89,7 @@
                                 Kos price prediction for JATIM area
                                 </p>
                                 <!-- px-6 -->
-                                <div class="p-10 pt-4 pb-2">
+                                <div class="px-6 pt-4 pb-2">
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/prediksi-harga-kos" target="_blank">github/com/r1dwanmaulana/prediksi-harga-kos</a></span></p>
                                     <span class="inline-block bg-green-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">NuxtJS</span>
                                     <span class="inline-block bg-blue-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">TailwindCSS</span>
