@@ -52,7 +52,7 @@
                                 Al-Qur'an application from web browser + support install
                                 </p>
                                 <div class="m-2 pt-2 pb-2">
-                                    <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/quran-id" target="_blank">github/com/r1dwanmaulana/quran-id</a></span></p>
+                                    <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/quran-id" target="_blank">github.com/r1dwanmaulana/quran-id</a></span></p>
                                     <span class="inline-block bg-green-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">NuxtJS</span>
                                     <span class="inline-block bg-blue-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">TailwindCSS</span>
                                     <span class="inline-block bg-gray-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">Vercel</span>
@@ -71,7 +71,7 @@
                                 Football match information
                                 </p>
                                 <div class="m-2 pt-2 pb-2">
-                                    <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/information-football-PWA" target="_blank">github/com/r1dwanmaulana/information-football-PWA</a></span></p>
+                                    <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/information-football-PWA" target="_blank">github.com/r1dwanmaulana/information-football-PWA</a></span></p>
                                     <span class="inline-block bg-yellow-400 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">Javascript</span>
                                     <span class="inline-block bg-blue-700 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">CSS</span>
                                     <span class="inline-block bg-yellow-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">Firebase</span>
@@ -91,7 +91,7 @@
                                 </p>
                                 <!-- px-6 -->
                                 <div class="m-2 pt-2 pb-2">
-                                    <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/prediksi-harga-kos" target="_blank">github/com/r1dwanmaulana/prediksi-harga-kos</a></span></p>
+                                    <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/prediksi-harga-kos" target="_blank">github.com/r1dwanmaulana/prediksi-harga-kos</a></span></p>
                                     <span class="inline-block bg-green-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">NuxtJS</span>
                                     <span class="inline-block bg-blue-500 rounded-lg px-2 py-1 text-xs font-normal text-white m-1 mb-2">TailwindCSS</span>
                                     <span class="inline-block bg-gray-500 rounded-md px-2 py-1 text-xs font-normal text-white m-1 mb-2">Vercel</span>
@@ -115,7 +115,7 @@
     height: 100%;
     width: 100%;
     object-fit: cover;
-    transition: all 0.3s;
+    transition: all 0.5s;
 }
 .info {
     position: absolute;
