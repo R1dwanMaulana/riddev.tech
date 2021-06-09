@@ -1,45 +1,6 @@
 <template>
 <div class="container p-5">
     <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-2xl">
-        <h1 class="title">
-            My Skill
-        </h1>
-
-        <p class="desc mb-3 text-gray-800">
-            This is my personal dashboard, this page is used to explain the programming language <br/> I often use and other project screen shots.
-        </p>
-
-        <div class="grid grid-flow-col grid-cols-2 grid-rows-2 gap-4">
-            <div>
-                <div class="rounded-md overflow-hidden hover:shadow-lg border border-yellow-300 hover:bg-yellow-300 hover:text-white m-3">
-                    <div class="px-6 py-4">
-                    <div class="font-medium text-xl mb-2">Javascript</div>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="rounded-md overflow-hidden hover:shadow-lg border border-blue-400 hover:bg-blue-400 hover:text-white m-3">
-                    <div class="px-6 py-4">
-                    <div class="font-medium text-xl mb-2">Typescript</div>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="rounded-md overflow-hidden hover:shadow-lg border border-green-500 hover:bg-green-500 hover:text-white m-3">
-                    <div class="px-6 py-4">
-                    <div class="font-medium text-xl mb-2">Vuejs</div>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <div class="rounded-md overflow-hidden hover:shadow-lg border border-red-400 hover:bg-red-500 hover:text-white m-3">
-                    <div class="px-6 py-4">
-                    <div class="font-medium text-xl mb-2">Laravel</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
             <h1 class="title mt-10 mb-2">All Projects</h1>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
                     <div class="wrapper">
@@ -135,8 +96,6 @@
                             </div>
                         </div>
                     </div>
-
-
             </div>
     </div>
 </div>
@@ -145,13 +104,14 @@
 <style scoped>
 
 .card:hover img{
-    transform: translateY(-7px);
-    filter: blur(10px);
+    transform: translateY(-5px);
+    filter: blur(12px);
 }
 
 .card img {
     height: 100%;
     object-fit: cover;
+    transition: all 0.5s;
 }
 .info {
     position: absolute;
@@ -166,6 +126,7 @@
 } 
 .wrapper:hover .overlay {
     opacity: 1;
+    transition: all 0.3s;
 }
 
 </style>
