@@ -111,7 +111,7 @@
                                     <p class="font-light text-sm mb-5"><span class="text-blue-700"><a href="https://github.com/R1dwanMaulana/information-football-PWA" target="_blank">github/com/r1dwanmaulana/information-football-PWA</a></span></p>
                                     <span class="inline-block bg-yellow-400 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Javascript</span>
                                     <span class="inline-block bg-blue-700 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">CSS</span>
-                                    <span class="inline-block bg-gray-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Vercel</span>
+                                    <span class="inline-block bg-yellow-500 rounded-md px-3 py-1 text-sm font-semibold text-white mr-2 mb-2">Firebase</span>
                                 </div>
                             </div>
                         </div>
