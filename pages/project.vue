@@ -7,7 +7,7 @@
                     <div class="wrapper">
                         <!-- hover:scale-105 -->
                         <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-100 transition-transform transform hover:-translate-y-2 h-64">
-                            <img class="w-full" src="../static/restodev.png" alt="Web App Restoran">
+                            <img class="w-full" src="../static/resto.png" alt="Web App Restoran">
 
                             <div class="overlay info py-4 pr-3 pl-3 text-center">
                                 <div class="text-gray-800 font-bold text-2xl">Restaurant App</div>
@@ -44,7 +44,7 @@
 
                     <div class="wrapper">
                         <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-100 transition-transform transform hover:-translate-y-2 h-64">
-                            <img class="w-full" src="../static/quran-id.png" alt="quran-id">
+                            <img class="w-full" src="../static/quran.png" alt="quran-id">
 
                             <div class="overlay info py-4 pr-3 pl-3 text-center">
                                 <div class="text-gray-800 font-bold text-2xl">Qur'an-id App</div>
@@ -63,7 +63,7 @@
 
                     <div class="wrapper">
                         <div class="card max-w-md rounded-lg overflow-hidden hover:shadow-xl border border-gray-100 transition-transform transform hover:-translate-y-2 h-64">
-                            <img class="w-full" src="../static/info-liga.png" alt="info-liga">
+                            <img class="w-full" src="../static/football.png" alt="info-liga">
 
                             <div class="overlay info py-4 pr-3 pl-3 text-center">
                                 <div class="text-gray-800 font-bold text-2xl">Football league information</div>
