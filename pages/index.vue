@@ -26,7 +26,7 @@
         Latest Projects
       </h1>
 
-      <div class="rounded-lg overflow-hidden hover:shadow-xl border border-transparent hover:bg-gray-200 m-2">
+      <div class="rounded-lg overflow-hidden hover:shadow-md m-2 border border-gray-200">
         <a href="https://quran-id.vercel.app" target="_blank">
         <div class="px-6 py-4">
           <div class="text-gray-900 font-medium text-xl mb-2">Qur'an-id</div>
@@ -36,7 +36,7 @@
         </div>
         </a>
       </div>
-      <div class="rounded-lg overflow-hidden hover:shadow-xl border border-transparent hover:bg-gray-200 m-2">
+      <div class="rounded-lg overflow-hidden hover:shadow-md m-2 border border-gray-200">
         <a href="https://info-liga.web.app" target="_blank">
         <div class="px-6 py-4">
           <div class="text-gray-900 font-medium text-xl mb-2">Football league information</div>
@@ -46,7 +46,7 @@
         </div>
         </a>
       </div>
-      <div class="rounded-lg overflow-hidden hover:shadow-xl border border-transparent hover:bg-gray-200 m-2">
+      <div class="rounded-lg overflow-hidden hover:shadow-md m-2 border border-gray-200">
         <a href="https://search-repo.netlify.app" target="_blank">
         <div class="px-6 py-4">
           <div class="text-gray-900 font-medium text-xl mb-2">Search repo github</div>
