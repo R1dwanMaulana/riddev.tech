@@ -5,7 +5,7 @@
     </div>
 
   <button>
-        <label for="menu-toggle" class="cursor-pointer lg:hidden block focus:outline-none"><img :src="toggleIcon" @click="menuIcon = !menuIcon" class="hover:bg-gray-200 rounded-sm"></label>
+        <label for="menu-toggle" class="cursor-pointer lg:hidden block focus:outline-none"><img :src="toggleIcon" @click="menuIcon = !menuIcon"></label>
   </button>
   <input class="hidden" type="checkbox" id="menu-toggle" />
 
