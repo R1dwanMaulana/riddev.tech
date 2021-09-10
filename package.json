@@ -13,6 +13,8 @@
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/robots": "^2.5.0",
+    "@nuxtjs/sitemap": "^2.4.0",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3",
     "prism-themes": "^1.6.0"
@@ -25,7 +27,6 @@
     "eslint": "^7.22.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.7.0",
-    "nuxt-vite": "^0.0.37",
     "postcss": "^8.2.8"
   }
 }
