@@ -1,24 +1,23 @@
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: false,
+  ssr: true,
 
   // Target: https://go.nuxtjs.dev/config-target
-  target: 'static',
+  target: 'server',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Ridwan Maulana',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'id'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'my portfolio' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/profile.ico' },
       {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Poppins:wght@200;300;400;500;600&display=swap'},
+      {rel: "canonical", href: 'https://riddev.tech'}
     ]
   },
 
@@ -38,15 +37,24 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    'nuxt-vite'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
-    '@nuxt/content'
+    '@nuxt/content',
+    "@nuxtjs/robots",
+		"@nuxtjs/sitemap",
   ],
+  robots: {
+		UserAgent: "*",
+		Disallow: "/img",
+	},
+	sitemap: {
+		hostname: "https://riddev.tech",
+		path: '/sitemap.xml'
+	},
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
