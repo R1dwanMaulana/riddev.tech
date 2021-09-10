@@ -1,20 +1,21 @@
 <template>
-  <div class="container p-5">
-    <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-2xl">
-      <nuxt-link to="/blog/unit-test">
-        <div class="max-w-sm rounded-md overflow-hidden hover:shadow-xl border border-blue-300 m-5">
-          <div class="px-6 py-4">
-            <div class="font-bold text-xl mb-2">
-              Belajar Unit Testing di Vuejs
+  <!-- <div class="container p-5"> -->
+    <!-- <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-2xl"> -->
+      		<div class="max-w-md sm:max-w-xl lg:max-w-6xl sm:px-8 lg:px-10 px-6 py-12">
+            <div class="flex flex-wrap ml-2">
+                <nuxt-link to="/blog/unit-test">
+                  <div class="flex items-center rounded-lg bg-white shadow-lg overflow-hidden">
+                      <div class="p-2">
+                        <h4 class="lg:text-base md:text-base text-sm font-medium leading-tight text-gray-800 pt-1 hover:text-pink-600">Belajar Unit Testing di Vuejs</h4>
+                        <p class="text-gray-500 lg:text-sm md:text-sm text-xs leading-tight pt-1">Testing app sebelum production</p>
+                      </div>
+                      <img class="lg:h-48 lg:w-44 md:h-44 md:w-44 h-44 w-36 flex-shrink-0 object-cover" src="/testing.jpg" alt="cover">
+                  </div>  
+                </nuxt-link>
             </div>
-            <p class="text-gray-700 text-base">
-              Testing app sebelum production 🚀
-            </p>
           </div>
-        </div>
-      </nuxt-link>
-    </div>
-  </div>
+    <!-- </div> -->
+  <!-- </div> -->
 </template>
 
 <script>
