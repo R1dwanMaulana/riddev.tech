@@ -20,20 +20,22 @@
 <script>
 export default{
   head: {
-    title: 'Berbagi Artikel',
-    htmlAttrs: {
-      lang: 'en'
+      title: 'Blog - Ridwan Maulana',
+      meta: [
+          { charset: 'utf-8' },
+          { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+          { hid: 'description', name: 'description', content: '' },
+          { name: "format-detection", content: "telephone=no" },
+          { name: "author", content: "Riddev"},
+          { name: "description", content: "A personal site of Ridwan Maulana"},
+          { property: "og:title", content: "Riddev"},
+          { property: "og:description", content: "A personal site of Ridwan Maulana"},
+          { property: "og:image", content: "/profile.jpg"},
+          { property: "og:site_name", content: "Riddev"},
+          { property: "og:type", content: "website"},
+          { property: "og:url", content: "https://riddev.tech"}
+      ],
     },
-    meta: [
-      { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'blog page' }
-    ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/man.ico' },
-      {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Poppins:wght@200;300;400;500;600&display=swap'},
-    ]
-  },
 }
 </script>
 

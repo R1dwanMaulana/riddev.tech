@@ -104,6 +104,28 @@
 </div>
 </template>
 
+<script>
+export default {
+    head: {
+      title: 'Project - Ridwan Maulana',
+      meta: [
+          { charset: 'utf-8' },
+          { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+          { hid: 'description', name: 'description', content: '' },
+          { name: "format-detection", content: "telephone=no" },
+          { name: "author", content: "Riddev"},
+          { name: "description", content: "A personal site of Ridwan Maulana"},
+          { property: "og:title", content: "Riddev"},
+          { property: "og:description", content: "A personal site of Ridwan Maulana"},
+          { property: "og:image", content: "/profile.jpg"},
+          { property: "og:site_name", content: "Riddev"},
+          { property: "og:type", content: "website"},
+          { property: "og:url", content: "https://riddev.tech"}
+      ],
+    },
+}
+</script>
+
 <style scoped>
 
 .card:hover img{
