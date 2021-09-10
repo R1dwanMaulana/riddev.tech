@@ -1,15 +1,16 @@
 <template>
   <div class="container1 p-5">
-    <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-2xl">
+    <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-3xl">
       <article class="detail-card">
+        <img :src=article.img alt="" class="w-full max-h-96 object-cover rounded mb-4">
         <h1 class="title">
           {{ article.title }}
         </h1>
-        <h2 class="mt-3">
+        <!-- <h2 class="mt-3">
           By: {{ article.author }}
-        </h2>
-        <p class="pb-4 mr-3 text-gray-500">
-          Post last updated: {{ formatDate(article.updatedAt) }}
+        </h2> -->
+        <p class="pb-7 mr-3 text-gray-500 text-sm pt-3">
+          Dibuat pada {{ formatDate(article.createdAt) }} | Diperbarui pada {{ formatDate(article.updatedAt) }}
         </p>
         <nuxt-content :document="article" />
       </article>
@@ -30,19 +31,21 @@ export default {
     }
   },
   head: {
-    title: 'Berbagi Artikel',
-    htmlAttrs: {
-      lang: 'en'
-    },
-    meta: [
-      { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'blog page' }
-    ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/man.ico' },
-      {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Poppins:wght@200;300;400;500;600&display=swap'},
-    ]
+      title: 'Blog - Ridwan Maulana',
+      meta: [
+          { charset: 'utf-8' },
+          { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+          { hid: 'description', name: 'description', content: '' },
+          { name: "format-detection", content: "telephone=no" },
+          { name: "author", content: "Riddev"},
+          { name: "description", content: "A personal site of Ridwan Maulana"},
+          { property: "og:title", content: "Riddev"},
+          { property: "og:description", content: "A personal site of Ridwan Maulana"},
+          { property: "og:image", content: "/profile.jpg"},
+          { property: "og:site_name", content: "Riddev"},
+          { property: "og:type", content: "website"},
+          { property: "og:url", content: "https://riddev.tech"}
+      ],
   },
 }
 </script>
