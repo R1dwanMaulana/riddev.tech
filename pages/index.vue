@@ -66,6 +66,7 @@ export default {
   head: {
       title: 'Situs pribadi Ridwan Maulana',
       meta: [
+          { name: 'google-site-verification' , content: 'zFBLXruUdOFYXL4-vX17JOHnAeHaoNETW2P_eOOYiYo"'},
           { charset: 'utf-8' },
           { name: 'viewport', content: 'width=device-width, initial-scale=1' },
           { hid: 'description', name: 'description', content: '' },
