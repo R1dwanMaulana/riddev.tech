@@ -2,6 +2,7 @@
 title: Bagaimana bikin unit test di Vuejs ?
 author: Ridwan Maulana
 bio: Software Developer
+img: "../testing.jpg"
 ---
 
 ## Apa itu unit testing ✅
