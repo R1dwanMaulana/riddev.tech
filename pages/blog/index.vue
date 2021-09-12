@@ -1,24 +1,30 @@
 <template>
 <div>
-  <!-- <div class="container p-5"> -->
+  <div class="container">
     <!-- <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-2xl"> -->
 
-      		<div class="max-w-md sm:max-w-xl lg:max-w-6xl sm:px-8 lg:px-10 px-6 py-12">
-            <div class="flex flex-wrap mx-2">
+      		<!-- <div class="max-w-md sm:max-w-xl lg:max-w-6xl sm:px-8 lg:px-10 px-6 py-12"> -->
+            <div class="flex flex-wrap mx-6">
+              <div class="mx-8 mt-14 grid lg:grid-cols-3 md:grid-cols-2 gap-10">
                 <nuxt-link to="/blog/unit-test">
-                  <div class="flex items-center rounded-lg bg-white shadow-lg overflow-hidden">
-                      <div class="p-2">
-                        <h4 class="lg:text-base md:text-base text-sm font-medium leading-tight text-gray-800 pt-1 hover:text-indigo-400">Belajar Unit Testing di Vuejs</h4>
-                        <p class="text-gray-500 lg:text-sm md:text-sm text-xs leading-tight pt-1">Testing app sebelum production</p>
+                    <div class="card shadow-lg rounded-md">
+                      <img src="/testing.jpg" class="w-full rounded-t-md h-32 sm:h-48" alt="testing vue">
+                      <div class="m-3 py-2">
+                        <p class="text-gray-800 hover:text-indigo-400 lg:text-base text-sm text-center">
+                          Belajar Unit Testing di Vuejs
+                        </p>
+                        <p class="text-gray-500 lg:text-base text-sm text-center pt-2">
+                          Testing app sebelum production
+                        </p>
                       </div>
-                      <img class="lg:h-48 lg:w-44 md:h-44 md:w-44 h-44 w-36 flex-shrink-0 object-cover" src="/testing.jpg" alt="cover">
-                  </div>  
+                    </div>
                 </nuxt-link>
+              </div>
             </div>
-          </div>
+          <!-- </div> -->
           
     <!-- </div> -->
-  <!-- </div> -->
+  </div>
 </div>
 </template>
 
