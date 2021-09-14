@@ -27,7 +27,7 @@
       </h1>
 
       <div class="rounded-lg overflow-hidden hover:shadow-md m-2 border border-gray-200">
-        <a href="https://quran-id.vercel.app" target="_blank">
+        <a href="https://www.quran-id.me" target="_blank">
         <div class="px-6 py-4">
           <div class="text-gray-900 font-medium text-xl mb-2">Qur'an-id</div>
           <p class="text-gray-500 text-base">
