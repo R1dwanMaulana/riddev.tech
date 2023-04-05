@@ -6,7 +6,7 @@
       </h1>
 
       <p class="desc mb-3 text-gray-500">
-        I'am a software engineer. I like frontend developer, the frameworks that I often use are vuejs and nuxtjs.
+        I'am a software engineer. I like frontend developer, the frameworks that I often use are vuejs and nuxtjs. 
       </p>
 
     <div class="flex items-center bg-blue-500 rounded-lg text-white text-sm font-bold px-4 py-3" role="alert">
