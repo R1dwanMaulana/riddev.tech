@@ -14,8 +14,9 @@
                 <div>
                     <p class="title mt-3">Frontend</p>
                     <ul>
-                        <li>VueJS</li>
-                        <li>NuxtJS</li>
+                        <li>Vue.js</li>
+                        <li>Nuxt</li>
+                        <li>React.js</li>
                         <li>Tailwind CSS</li>
                     </ul>
                 </div>
@@ -23,7 +24,7 @@
                     <p class="title mt-3">Backend</p>
                     <ul>
                         <li>Firebase</li>
-                        <li>Node.JS</li>
+                        <li>Node.js</li>
                         <li>Laravel</li>
                     </ul>
                 </div>

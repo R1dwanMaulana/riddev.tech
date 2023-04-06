@@ -1,19 +1,75 @@
 <template>
-  <div class="container p-5">
+  <div class="container p-4">
     <div class="lg:max-w-4xl mx-auto sm:max-w-md md:max-w-2xl">
       <h1 class="title mb-5">
         Hey, I'am Ridwan Maulana <img src="../static/wave.png" class="inline" alt="" height="35" width="35">
       </h1>
 
       <p class="desc mb-3 text-gray-500">
-        I'am a software engineer. I like frontend developer, the frameworks that I often use are vuejs and nuxtjs. 
+        I'am a software engineer. I like frontend developer, the frameworks that I often use are vuejs and reactjs. 
       </p>
 
       <h1 class="title mt-14">
         Latest Projects
       </h1>
-
-      <div class="rounded-lg overflow-hidden hover:shadow-md m-2 border border-gray-200">
+      <div class="rounded-lg overflow-hidden m-2 ">
+        <div class="py-4 justify-around flex">
+          <img src="/mobile (7).png" class="w-32" alt="">
+          <div class="px-4">
+            <p class="font-bold text-md">Cari Emot App</p>
+            <p class="text-xs text-gray-500">Aplikasi untuk mencari emot</p>
+            <div class="flex mt-5 items-center">
+            <p class="text-xs text-gray-500 font-bold pr-2">build with</p>
+            <img class="w-6" src="/React-icon.svg.png" alt="">
+            </div>
+            <button class="mt-2 bg-blue-300 py-1 px-3 text-white text-sm font-bold rounded-md"><a href="https://cari-emot.vercel.app" target="_blank">view</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="rounded-lg overflow-hidden m-2 ">
+        <div class="py-4 justify-around flex">
+          <img src="/mobile (5).png" class="w-32" alt="">
+          <div class="px-4">
+            <p class="font-bold text-md">Movie App</p>
+            <p class="text-xs text-gray-500">Aplikasi untuk mencari film</p>
+            <div class="flex mt-5 items-center">
+            <p class="text-xs text-gray-500 font-bold pr-2">build with</p>
+            <img class="w-6" src="/React-icon.svg.png" alt="">
+            </div>
+            <button class="mt-2 bg-blue-300 py-1 px-3 text-white text-sm font-bold rounded-md"><a href="https://moviezapp.vercel.app" target="_blank">view</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="rounded-lg overflow-hidden m-2 ">
+        <div class="py-4 justify-around flex">
+          <img src="/mobile (3).png" class="w-32" alt="">
+          <div class="px-4">
+            <p class="font-bold text-md">Qur'an-id</p>
+            <p class="text-xs text-gray-500">Aplikasi Al-Quran dari browser</p>
+            <div class="flex mt-5 items-center">
+            <p class="text-xs text-gray-500 font-bold pr-2">build with</p>
+            <img class="w-6" src="/nuxt-icon.svg" alt="">
+            </div>
+            <button class="mt-2 bg-blue-300 py-1 px-3 text-white text-sm font-bold rounded-md"><a href="https://quran-id.vercel.app" target="_blank">view</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="rounded-lg overflow-hidden m-2 ">
+        <div class="py-4 justify-around flex">
+          <img src="/mobile (4).png" class="w-32" alt="">
+          <div class="px-4">
+            <p class="font-bold text-md">Kosbot kit</p>
+            <p class="text-xs text-gray-500">Aplikasi pencarian harga kost</p>
+            <div class="flex mt-5 items-center">
+            <p class="text-xs text-gray-500 font-bold pr-2">build with</p>
+            <img class="w-6" src="/nuxt-icon.svg" alt="">
+            </div>
+            <button class="mt-2 bg-blue-300 py-1 px-3 text-white text-sm font-bold rounded-md"><a href="https://kosbot-kit.web.app" target="_blank">view</a></button>
+          </div>
+        </div>
+      </div>
+      
+      <!-- <div class="rounded-lg overflow-hidden hover:shadow-md m-2 border border-gray-200">
         <a href="https://www.quran-id.me" target="_blank">
         <div class="px-6 py-4">
           <div class="text-gray-900 font-medium text-xl mb-2">Qur'an-id</div>
@@ -42,7 +98,7 @@
           </p>
         </div>
         </a>
-      </div>
+      </div> -->
 
     </div>
   </div>
