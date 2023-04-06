@@ -14,7 +14,7 @@
       </h1>
       <div class="rounded-lg overflow-hidden m-2 ">
         <div class="py-4 justify-around flex">
-          <img src="/mobile (7).png" class="w-32" alt="">
+          <img src="/mobile (7).png" class="w-32 h-40" alt="">
           <div class="px-4">
             <p class="font-bold text-md">Cari Emot App</p>
             <p class="text-xs text-gray-500">Aplikasi untuk mencari emot</p>
@@ -28,7 +28,7 @@
       </div>
       <div class="rounded-lg overflow-hidden m-2 ">
         <div class="py-4 justify-around flex">
-          <img src="/mobile (5).png" class="w-32" alt="">
+          <img src="/mobile (5).png" class="w-32 h-40" alt="">
           <div class="px-4">
             <p class="font-bold text-md">Movie App</p>
             <p class="text-xs text-gray-500">Aplikasi untuk mencari film</p>
@@ -42,7 +42,7 @@
       </div>
       <div class="rounded-lg overflow-hidden m-2 ">
         <div class="py-4 justify-around flex">
-          <img src="/mobile (3).png" class="w-32" alt="">
+          <img src="/mobile (3).png" class="w-32 h-40" alt="">
           <div class="px-4">
             <p class="font-bold text-md">Qur'an-id</p>
             <p class="text-xs text-gray-500">Aplikasi Al-Quran dari browser</p>
@@ -56,7 +56,7 @@
       </div>
       <div class="rounded-lg overflow-hidden m-2 ">
         <div class="py-4 justify-around flex">
-          <img src="/mobile (4).png" class="w-32" alt="">
+          <img src="/mobile (4).png" class="w-32 h-40" alt="">
           <div class="px-4">
             <p class="font-bold text-md">Kosbot kit</p>
             <p class="text-xs text-gray-500">Aplikasi pencarian harga kost</p>
