@@ -68,6 +68,38 @@
           </div>
         </div>
       </div>
+
+      <h1 class="title mt-14">
+        Work project
+      </h1>
+      <div class="rounded-lg overflow-hidden m-2 ">
+        <div class="py-4 justify-around flex">
+          <img src="/mobile (1).png" class="w-32 h-64" alt="">
+          <div class="px-4">
+            <p class="font-bold text-md">Farmly App</p>
+            <p class="text-xs text-gray-500">Pesan hasil panen langsung dari petani</p>
+            <div class="flex mt-5 items-center">
+            <p class="text-xs text-gray-500 font-bold pr-2">build with</p>
+            <img class="w-6" src="/nuxt-icon.svg" alt="">
+            </div>
+            <button class="mt-2 bg-blue-300 py-1 px-3 text-white text-sm font-bold rounded-md"><a href="https://app.farmly.id" target="_blank">view</a></button>
+          </div>
+        </div>
+      </div>
+      <div class="rounded-lg overflow-hidden m-2 ">
+        <div class="py-4 justify-around flex">
+          <img src="/mobile (2).png" class="w-32 h-64" alt="">
+          <div class="px-4">
+            <p class="font-bold text-md">Webview Reblood</p>
+            <p class="text-xs text-gray-500">Aplikasi informasi donor darah</p>
+            <div class="flex mt-5 items-center">
+            <p class="text-xs text-gray-500 font-bold pr-2">build with</p>
+            <img class="w-6" src="/nuxt-icon.svg" alt="">
+            </div>
+            <div class="bg-gray-100 p-1 text-sm rounded-md text-gray-600 mt-2">can only be accessed on the <strong class="text-blue-400">Kitabisa</strong> application</div>
+          </div>
+        </div>
+      </div>
       
       <!-- <div class="rounded-lg overflow-hidden hover:shadow-md m-2 border border-gray-200">
         <a href="https://www.quran-id.me" target="_blank">
